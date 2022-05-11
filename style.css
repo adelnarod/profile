@@ -1,5 +1,5 @@
  body {
-  background-image: url("/images/rplace.png");
+  background-image: url("images/rplace.png");
 }
 
 .container {
@@ -42,7 +42,7 @@
   color: #AF9164;
   font-family: 'VT323', monospace;
   padding: 50px;
-  background-image: url("/images/final-gif.gif");
+  background-image: url("images/final-gif.gif");
   margin: 30px;
   border-radius: 10px;
   border-style: dotted;
